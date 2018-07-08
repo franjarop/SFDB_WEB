@@ -1,0 +1,17 @@
+﻿
+.imagenPresentadora{
+    width:180px;
+    height:180px;
+}
+
+.imagenLogo{
+    width:180px;
+    height:70px;
+}
+
+/*Estilos generados para seccion de Articulos*/
+.posicionLogoArticulo{
+    position:absolute;
+    left:80%;
+    top:14%;
+}
