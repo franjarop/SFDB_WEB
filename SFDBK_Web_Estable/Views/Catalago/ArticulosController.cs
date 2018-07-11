@@ -7,5 +7,9 @@ namespace SFDBK_Web_Estable.Views.Catalago
 {
     public class ArticulosController
     {
+        public ArticulosController()
+        {
+
+        }
     }
 }
